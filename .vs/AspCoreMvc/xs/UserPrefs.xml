@@ -1,4 +1,56 @@
 ﻿<Properties StartupConfiguration="{5163AA58-0FA6-46B5-87F5-5D7078F7F0A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspCoreMvc/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="AspCoreMvc/Controllers/ProductController.cs" Line="32" Column="1" />
+      <File FileName="AspCoreMvc/Views/Product/milk.cshtml" Line="13" Column="24" />
+      <File FileName="AspCoreMvc/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspCoreMvc" expanded="True">
+            <Node name="AspCoreMvc" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspCoreMvc" expanded="True">
+            <Node name="AspCoreMvc" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zinab/Desktop/AspCoreMvc/AspCoreMvc/Controllers/ProductController.cs" relfile="AspCoreMvc/Controllers/ProductController.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AspCoreMvc FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AspCoreMvc PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
